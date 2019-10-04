@@ -38,11 +38,13 @@ figcaption {
 
 #details {
   display: block;
+  font-size: 12pt
 }
 
 #details div {
   float: left;
   width: 25%;
   background-color: red;
-  text-align: center
+  text-align: center;
+  font-size: 12pt
 }
