@@ -38,11 +38,12 @@ figcaption {
 
 #details {
   display: block;
-  width: 25%
-  
+  width: 100%
 }
 
 #details div {
+  float: left;
+  margin: 0 auto;
   background-color: red;
   
 }
