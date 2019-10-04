@@ -38,6 +38,8 @@ figcaption {
 
 #details {
   display: block;
+  width: 100%
+  
 }
 
 #details div {
