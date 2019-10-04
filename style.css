@@ -19,6 +19,10 @@ nav {
   padding-left: 10px;
 }
 
+section {
+  font-size: 0;
+}
+
 #featured-property p {
   text-align: center;
   width:800px;  
