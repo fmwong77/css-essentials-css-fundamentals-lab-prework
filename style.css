@@ -1,7 +1,8 @@
 body {
   width: 100%;
   height: 100%;
-  align-content: center
+  align-content: center;
+  overflow-x: hidden;
 }
 
 h1 {
@@ -39,7 +40,6 @@ figcaption {
 #details {
   display: block;
   font-size: 12pt;
-  overflow-y: hidden;
 }
 
 #details div {
