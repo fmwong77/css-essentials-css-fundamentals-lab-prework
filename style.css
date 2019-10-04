@@ -38,7 +38,8 @@ figcaption {
 
 #details {
   display: block;
-  font-size: 12pt
+  font-size: 12pt;
+  overflow-y: hidden;
 }
 
 #details div {
